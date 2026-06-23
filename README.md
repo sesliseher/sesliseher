@@ -1,22 +1,39 @@
-## Hi there, I'm Seher! 👋
+## Hi there, I'm Seher Sesli! 👋
 
-I am a senior Computer Engineering student. I develop projects focused on Artificial Intelligence, Natural Language Processing (NLP), Data Analytics, and Embedded Systems. I enjoy building solutions that bridge software architecture with hardware integration and exploring the depths of system programming.
+I am a senior Computer Engineering student at Abdullah Gül University (AGU) with a passion for developing innovative web, mobile, and AI-based applications. I enjoy building user-friendly, performance-oriented projects and solving complex problems through a multidisciplinary approach—ranging from full-stack development to advanced machine learning and cryptography.
 
-### 🛠️ Tech Stack & Skills
+🎓 **Education:** BSc in Computer Engineering, Abdullah Gül University (2021-2026) | GPA: 3.05/4.00
 
-- **Programming Languages:** Python, C/C++, Bash Scripting
-- **AI & Data Science:** Natural Language Processing (NLP), Scikit-Learn, LightGBM, DistilBERT, Data Automation & Business Intelligence (Power BI)
-- **Embedded Systems & Hardware:** Arduino, Raspberry Pi, ESP32, Microcontrollers, and Sensor Integration
-- **Systems & Networking:** Linux/Unix System Programming (AWK, SED, GREP), TCP/IP & Network Protocols, Cisco Configurations
+### 🛠️ Tech Stack & Tools
 
-### 🚀 Focus Areas & Projects
+- **Programming Languages:** Java, C#, Python, JavaScript, HTML/CSS, SQL, Dart, RISC-V
+- **Frameworks & Libraries:** ASP.NET MVC, Flutter, React, Flask, Bootstrap
+- **AI & Machine Learning:** LLMs (Gemini API), LoRA, DistilBERT, Ensemble Learning, SHAP (XAI), Scikit-Learn
+- **Databases & Cloud:** MySQL, Redis, Firebase
+- **Tools & Methodologies:** Git, GitHub, Visual Studio, VS Code, Android Studio, Figma
 
-- **AI-Powered Recruitment & Resume Analysis Tools** (NLP-based classification)
-- **Medical Imaging & Radiomics Models** (Advanced machine learning classifiers for medical analysis)
-- **Contactless Biometric Security Systems** (State machine-driven hardware control on Raspberry Pi & Pico)
-- **RPA & Process Automation** (Digitalization of business processes and data analytics)
+### 🚀 Highlighted Projects & Research
+
+- 🧠 **Privacy-Preserving Resume Screening System (TÜBİTAK 2209-A)**
+  *Developed a dual-model architecture to eliminate bias in recruitment. Integrated LLM-generated synthetic data, LoRA-optimized DistilBERT for NER, and SHAP-based Explainable AI (XAI).*
+  *(Currently in publication process at Springer - Journal of Intelligent Information Systems)*
+
+- 🔐 **CipherCore: E2EE Secure Email System**
+  *Built a secure email platform utilizing hybrid cryptography. Implemented AES-256-GCM for content encryption, RSA-OAEP for key exchange, and PBKDF2 for key derivation following "Zero-Knowledge" principles.*
+
+- 📱 **AGUNET - University Mobile App**
+  *Developed a comprehensive campus mobile application using Flutter and Firebase to enhance student-instructor communication, featuring real-time announcements, scheduling, and campus maps.*
+
+- 🔬 **Prostate Cancer Aggressiveness Prediction**
+  *Trained and optimized ML models (k-NN, GBM, SVM) on multi-center clinical data to predict Gleason scores. Handled class imbalances and cross-validation for high AUROC and F1-scores.*
+
+### 💼 Experience
+
+- **Machine Learning Researcher** @ *İŞ-KUR & AGU Engineering Faculty* (Dec 2025 - Jul 2026)
+- **Web Development Intern** @ *Sersim, IT Department* (Jun 2024 - Aug 2024)
+- **Web Content & UI/UX Assistant** @ *AGU Engineering Faculty* (Mar 2025 - Jul 2025)
 
 ### 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/seher-sesli-2822b6256/)
-- [Email](sehersesli.02@gmail.com)
+- [Email](mailto:sehersesli.02@gmail.com)
