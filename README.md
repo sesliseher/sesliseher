@@ -2,7 +2,7 @@
 
 I am a senior Computer Engineering student at Abdullah Gül University (AGU) with a passion for developing innovative web, mobile, and AI-based applications. I enjoy building user-friendly, performance-oriented projects and solving complex problems through a multidisciplinary approach—ranging from full-stack development to advanced machine learning and cryptography.
 
-🎓 **Education:** BSc in Computer Engineering, Abdullah Gül University (2021-2026) | GPA: 3.05/4.00
+🎓 **Education:** BSc in Computer Engineering, Abdullah Gül University (2021-2026) | GPA: 3.04/4.00
 
 ### 🛠️ Tech Stack & Tools
 
